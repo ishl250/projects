@@ -1,0 +1,47 @@
+1.As a full stack developer, you have been asked to develop a python program to
+perform bank transactions including deposit and withdraw, for withdrow you cannot
+let the account to be empty means it have to let 100 Rfw on the account and for all
+transactions it have to display the messages.
+
+2.CODEX DEV LTD, a Kigali-based software development company, is seeking a full-stack
+developer to implement a shopping cart feature in their existing system. The developer
+will be responsible for receiving a list of items to be purchased, allowing users to
+remove items from the cart, and providing an option to empty the cart entirely. And
+app must store those cart information to file named cart.csv The project will be
+implemented using Python.
+
+3.Develop a python program that can create a file in excel format "list of TVET schools"
+and attach the following as header (District,School name,Trade,Number of students)
+and attach sample data in row 1 (Your_district, Your_schoolname, SWD,23). The created
+file have to be saved on desktop of your computer in directory works if that directory
+don't exist it has to create it before saving that file.
+
+4.As a full stack developer, you have been asked to develop a python program to
+perform simple calculation (add, substract, divide and multiply). That program have to
+let numbers to be entered by user using keyboard, and after entering numbers it have
+to let user to select the operation to be performed and display the results according to
+selected operation.
+
+5.You are requested to develop a simple bank account transaction python program where
+there is application of inheritance in which the system have to accept to input the
+account owner and choose the action to be performed including withdraw, deposit and
+the system has to show the amount to be withdrow base on settings of bank.
+The program has to include the followings:
+ Object
+ Class
+ Inheritance
+ Polymorphism
+ Encapsulation
+6.As full stack developer you are asked to develop a python program that can be used
+while calculating the age of students in order to know if they are allowed to take
+national id card depending on entered age and the current date.
+The program has to tell user if the entered student is allowed or not
+
+7.Manzi as a full-stack developer, has built a web application for BERWA School. After
+each deployment of the application, certain tasks must be automated to ensure the
+application is correctly configured and ready for use. These tasks include configuring the
+server, backing up the database, and sending notifications upon completion. To
+enhance automation, Manzi decides to integrate a Python script into the deployment
+process, ensuring it runs after each successful deployment and meets necessary security
+measures. As a full stack developer, you are tasked to develop python script that will
+help Manzi to perform the desired requirements for his system.
